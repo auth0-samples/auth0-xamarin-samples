@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4583E7DF-6404-4365-9774-A47262A77A20}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormsCustom.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsCustom/HomePage.cs">
+    <Files>
+      <File FileName="iOS/MyViewController.cs" Line="11" Column="4" />
+      <File FileName="iOS/LoginPage.cs" Line="104" Column="42" />
+      <File FileName="FormsCustom/LoginPage.cs" Line="82" Column="59" />
+      <File FileName="FormsCustom/FormsCustom.cs" Line="4" Column="7" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="FormsCustom/HomePage.cs" Line="40" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormsCustom" expanded="True">
+            <Node name="FormsCustom" expanded="True">
+              <Node name="HomePage.cs" selected="True" />
+            </Node>
+            <Node name="FormsCustom.Droid" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+            </Node>
+            <Node name="FormsCustom.iOS" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ado/Projects/FormsCustom/iOS/LoginPage.cs" line="109" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormsCustom.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6D9EBF63-2CB1-4099-9A7C-E11AC967E91C" />
+</Properties>

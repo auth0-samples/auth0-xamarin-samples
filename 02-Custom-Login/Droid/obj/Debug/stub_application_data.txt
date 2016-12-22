@@ -1,0 +1,2 @@
+android.app.Application
+com.adoauth0.formscustom

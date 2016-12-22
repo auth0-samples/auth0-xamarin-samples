@@ -1,0 +1,17 @@
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/RestSharp.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Auth0Client.iOS.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.iOS.dll
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/FormsCustom.iOS.exe.mdb
+/Users/ado/Projects/FormsCustom/iOS/bin/iPhoneSimulator/Debug/FormsCustom.iOS.exe
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/FormsCustom.iOS.exe
+/Users/ado/Projects/FormsCustom/iOS/obj/iPhoneSimulator/Debug/FormsCustom.iOS.exe.mdb

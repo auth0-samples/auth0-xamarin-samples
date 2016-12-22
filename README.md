@@ -1,1 +1,1 @@
-# auth0-xamarin-samples
+# Auth0 - Xamarin Forms App
