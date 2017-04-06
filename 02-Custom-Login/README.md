@@ -10,12 +10,9 @@ This project demonstrates how to integrate Auth0 with a Xamarin Forms applicatio
 
 ## Setup
 
-1. Open the solution and open the `LoginPage.cs` file.
-2. Change every instance of `YOUR-AUTH0-DOMAIN` with your Auth0 domain.
-3. Change every instance of `YOUR-AUTH0-CLIENT-ID` with your Auth0 Client ID.
-4. Open the `HomePage.cs` file.
-5. Change every instance of `YOUR-AUTH0-DOMAIN` with your Auth0 domain.
-6. Change every instance of `YOUR-AUTH0-CLIENT-ID` with your Auth0 Client ID.
+1. Open the solution and open the `FormsCustom.cs` file.
+2. Change every instance of `{DOMAIN}` with your Auth0 domain.
+3. Change every instance of `{CLIENT_ID}` with your Auth0 Client ID.
 
 ## Test the application
 
