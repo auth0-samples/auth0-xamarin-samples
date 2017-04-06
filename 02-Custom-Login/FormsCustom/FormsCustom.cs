@@ -7,7 +7,9 @@ namespace FormsCustom
 {
 	public class App : Application
 	{
-		public App()
+        public static string CLIENT_ID = "{CLIENT_ID}";
+        public static string DOMAIN = "{DOMAIN}";
+        public App()
 		{
 			MainPage = new LoginPage();
 		}

@@ -7,7 +7,7 @@ namespace FormsCustom
 {
 	public class HomePage : ContentPage
 	{
-		public HomePage()
+        public HomePage()
 		{
 			User user = new User
 			{
@@ -40,7 +40,7 @@ namespace FormsCustom
 
 		public void Logout()
 		{
-			var auth0 = new Auth0Client("YOUR-AUTH0-DOMAIN", "YOUR-AUTH0-CLIENT-ID");
+			var auth0 = new Auth0Client(App.DOMAIN, App.CLIENT_ID);
 			auth0.Logout();
 			Navigation.PushModalAsync(new LoginPage());
 		}

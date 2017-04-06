@@ -16,7 +16,7 @@ namespace FormsCustom
 {
 	public class LoginPage : ContentPage
 	{
-		Auth0Client auth0 = new Auth0Client("YOUR-AUTH0-DOMAIN", "YOUR-AUTH0-CLIENT-ID");
+        Auth0Client auth0 = new Auth0Client(App.DOMAIN, App.CLIENT_ID);
 
 		public LoginPage()
 		{
@@ -77,9 +77,9 @@ namespace FormsCustom
 
 		public void LoginWithAPI(string username, string password)
 		{
-			var client = new RestClient("YOUR-AUTH0-DOMAIN");
+			var client = new RestClient(App.DOMAIN);
 			var request = new RestRequest("oauth/ro", Method.POST);
-			request.AddParameter("client_id", "YOUR-AUTH0-CLIENT-ID");
+			request.AddParameter("client_id", App.CLIENT_ID);
 			request.AddParameter("username", username);
 			request.AddParameter("password", password);
 			request.AddParameter("connection", "Username-Password-Authentication");
@@ -129,7 +129,7 @@ namespace FormsCustom
 
 		public void GetUserData(string token)
 		{
-			var client = new RestClient("YOUR-AUTH0-DOMAIN");
+			var client = new RestClient(App.DOMAIN);
 			var request = new RestRequest("tokeninfo", Method.GET);
 			request.AddParameter("id_token", token);
 
